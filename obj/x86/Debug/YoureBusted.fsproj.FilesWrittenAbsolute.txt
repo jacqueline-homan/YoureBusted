@@ -1,0 +1,5 @@
+/Users/admin/Projects/F-Sharp/YoureBusted/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/Users/admin/Projects/F-Sharp/YoureBusted/bin/Debug/YoureBusted.exe.mdb
+/Users/admin/Projects/F-Sharp/YoureBusted/bin/Debug/YoureBusted.exe
+/Users/admin/Projects/F-Sharp/YoureBusted/obj/x86/Debug/YoureBusted.exe
+/Users/admin/Projects/F-Sharp/YoureBusted/obj/x86/Debug/YoureBusted.exe.mdb

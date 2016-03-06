@@ -19,8 +19,8 @@ module TerminalBuilder =
         | "advocate" -> Advocate
         | "survivor" -> Survivor
         | _ -> 
-                printfn ("Sorry, %A is an invalid entry" resp
-                caller
+                printfn "Sorry, %A is an invalid entry" resp
+                caller()
 
     
 
